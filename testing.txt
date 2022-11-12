@@ -1,3 +1,5 @@
 I am wondering how we fell in love
 
 fprinf("This is a C program code")
+
+scanf("%d", &fp)
